@@ -7,6 +7,8 @@ namespace Hello_World
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Group 7 BAIS 2020!");
         }
     }
 }
