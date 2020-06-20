@@ -9,6 +9,7 @@ namespace Hello_World
             Console.WriteLine("Hello World!");
             
             Console.WriteLine("Group 7 BAIS 2020!");
+            Console.readline():
         }
     }
 }
